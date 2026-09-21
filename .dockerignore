@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.Python
+.pytest_cache/
+.venv/
+venv/
+env/
+.git/
+.gitignore
+.env
+.env.local
+node_modules/
